@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/vibe.dir/main.cpp.o -o vibe 
